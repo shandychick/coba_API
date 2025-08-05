@@ -6,4 +6,4 @@
 
 ## 📷 Tampilan Hasil Proyek
 
-![Tampilan Aplikasi](https://raw.githubusercontent.com/username/nama-repo/main/images/namafile.png)
+![Tampilan Aplikasi](https://github.com/shandychick/coba_API/blob/master/tugas_api.png)
